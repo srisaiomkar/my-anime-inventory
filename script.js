@@ -1,13 +1,10 @@
-submit = document.querySelector("#submit");
-container = document.querySelector(".container");
-form = document.querySelector("#anime-form");
-title = document.querySelector("#title");
-rating = document.querySelector("#rating");
-tbody = document.querySelector("#anime-list");
-ratingValue = document.querySelector("#rating-value");
-
-
-
+var submit = document.querySelector("#submit");
+var container = document.querySelector(".container");
+var form = document.querySelector("#anime-form");
+var title = document.querySelector("#title");
+var rating = document.querySelector("#rating");
+var tbody = document.querySelector("#anime-list");
+var ratingValue = document.querySelector("#rating-value");
 
 
 class Anime{
