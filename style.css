@@ -1,16 +1,29 @@
 body{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-transform: uppercase;
-    background: linear-gradient(to right, #f4edf5,#b62b2b);
+    background-image: url("https://cdn.hipwallpaper.com/i/91/25/exPlBv.jpg");
+    background-size: cover;
+}
+*{
+    color: aliceblue;
+    font-size: 1.05em;
+    font-weight: bolder;
 }
 h1{
-    letter-spacing: 0.3em;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: aliceblue;
 }
-.items{
-    display: flex;
-    justify-content: center;
-    align-items: center;
+.delete{
+    text-align: end;
+}
+.inputtext{
+    color: black;
+}
+.form-fields{
+
+    width: 100%;
+}
+.text-info{
+    color: black !important;
+}
+#rating-value{
+    padding-left: 5px;
+    color: aquamarine ; 
 }
