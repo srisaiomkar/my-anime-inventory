@@ -1,0 +1,25 @@
+body{
+    background-image: url("https://cdn.hipwallpaper.com/i/91/25/exPlBv.jpg");
+    background-size: cover;
+}
+*{
+    color: aliceblue;
+    font-size: 1.05em;
+    font-weight: bolder;
+}
+h1{
+    color: aliceblue;
+}
+.delete{
+    text-align: end;
+}
+.inputtext{
+    color: black;
+}
+.form-fields{
+
+    width: 100%;
+}
+.text-info{
+    color: black !important;
+}
